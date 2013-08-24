@@ -2,8 +2,8 @@
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="MainWindow" Height="350" Width="525">
-    <Grid>
-        <Label Content="Hello, World!" HorizontalAlignment="Left" Margin="113,134,0,0" VerticalAlignment="Top" FontSize="36"/>
+    <Grid Background="Teal">
+        <Label Content="Hello, World!" HorizontalAlignment="Left" Margin="113,134,0,0" VerticalAlignment="Top" FontSize="36" Foreground="#FFF3E2E2"/>
 
     </Grid>
 </Window>
